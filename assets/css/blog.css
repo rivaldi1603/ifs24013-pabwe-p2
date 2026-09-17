@@ -1,0 +1,15 @@
+/* Custom CSS tipis untuk konsistensi Blog */
+.brand-text { color: #2563eb; font-weight: 700; }
+.brand-text span { color: #7c3aed; }
+.card-img-top { height: 200px; object-fit: cover; }
+body { background-color: #f8fafc; }
+.btn-outline-primary { color: #0a58ca; border-color: #0a58ca; }
+.btn-outline-primary:hover, .btn-outline-primary.active { background-color: #0a58ca; border-color: #0a58ca; color: white; }
+
+/* Detail Blog Styles */
+.article-cover { height: 400px; object-fit: cover; width: 100%; border-radius: 0.5rem; }
+.author-avatar { width: 50px; height: 50px; border-radius: 50%; object-fit: cover; }
+.content-area { background-color: #ffffff; padding: 2rem; border-radius: 0.5rem; }
+.breadcrumb-item a { color: #0a58ca; }
+.sticky-offset { top: 100px; }
+.related-img { width: 70px; height: 70px; object-fit: cover; }
